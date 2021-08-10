@@ -1,0 +1,18 @@
+.starwars {
+    background-color: #272b30!important;
+    text-align: center;
+}
+
+.starwars h1  {
+    color: #ffe300;
+}
+
+.starwars p {
+    color: #ffe300;
+}
+
+.getcardapi {
+    background-color: #1A4A1C!important;
+    color: white;
+    text-align: center;
+}
